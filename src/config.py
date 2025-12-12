@@ -41,3 +41,19 @@ XGB_PARAMS = {
     'eval_metric': 'mlogloss',
     'random_state': RANDOM_STATE
 }
+
+# LOGISTIC REGRESSION PARAMS
+LR_PARAMS = {
+    'C': 100,
+    'solver': 'newton-cg',
+    'max_iter': 1000,
+    'random_state': RANDOM_STATE
+}
+
+# DECISION TREE PARAMS
+DT_PARAMS = {
+    'criterion': 'gini',
+    'max_depth': 15,
+    'min_samples_split': 2,
+    'random_state': RANDOM_STATE
+}
