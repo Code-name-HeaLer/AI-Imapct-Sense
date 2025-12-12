@@ -66,4 +66,11 @@ ImpactSense-Portfolio/
 
 ## 👨‍💻 Author
 
-Code Name HeaLer | All rights reserved
+Built as a practice ML Project by **Swagat Prasad Nanda**.
+
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-red?style=flat-square&logo=gmail)](mailto:swagatprasad3344@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/swagat-prasad-nanda/)
+
+---
+
+©️ Code Name HeaLer | All rights reserved
