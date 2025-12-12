@@ -4,7 +4,7 @@ import os
 # Get the root directory of the project
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-DATA_PATH = os.path.join(PROJECT_ROOT, "data", "raw", "earthquake_data.csv")
+DATA_PATH = os.path.join(PROJECT_ROOT, "data", "raw", "dataset.csv")
 PROCESSED_DATA_DIR = os.path.join(PROJECT_ROOT, "data", "processed")
 ARTIFACTS_DIR = os.path.join(PROJECT_ROOT, "artifacts")
 IMAGES_DIR = os.path.join(ARTIFACTS_DIR, "images")
